@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SarthakJangade/html-pdf-converter-react-app/static/css/main.20ef2bf8.css",
+    "main.js": "/SarthakJangade/html-pdf-converter-react-app/static/js/main.9a34cd54.js",
+    "static/js/498.71d2491c.chunk.js": "/SarthakJangade/html-pdf-converter-react-app/static/js/498.71d2491c.chunk.js",
+    "static/js/703.c2b9f0be.chunk.js": "/SarthakJangade/html-pdf-converter-react-app/static/js/703.c2b9f0be.chunk.js",
+    "static/js/560.79ce40a9.chunk.js": "/SarthakJangade/html-pdf-converter-react-app/static/js/560.79ce40a9.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SarthakJangade/html-pdf-converter-react-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SarthakJangade/html-pdf-converter-react-app/index.html",
+    "main.20ef2bf8.css.map": "/SarthakJangade/html-pdf-converter-react-app/static/css/main.20ef2bf8.css.map",
+    "main.9a34cd54.js.map": "/SarthakJangade/html-pdf-converter-react-app/static/js/main.9a34cd54.js.map",
+    "498.71d2491c.chunk.js.map": "/SarthakJangade/html-pdf-converter-react-app/static/js/498.71d2491c.chunk.js.map",
+    "703.c2b9f0be.chunk.js.map": "/SarthakJangade/html-pdf-converter-react-app/static/js/703.c2b9f0be.chunk.js.map",
+    "560.79ce40a9.chunk.js.map": "/SarthakJangade/html-pdf-converter-react-app/static/js/560.79ce40a9.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SarthakJangade/html-pdf-converter-react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ef2bf8.css",
+    "static/js/main.9a34cd54.js"
+  ]
+}
